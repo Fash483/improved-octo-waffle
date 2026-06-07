@@ -1,6 +1,5 @@
 {
-  "name": "MAGNET_VAULT",
-  ],
+  "name": "MAGNET_VAULT"
   "dependencies": {
     "node-appwrite": "latest"
   }
